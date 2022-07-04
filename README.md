@@ -1,1 +1,6 @@
 # Survey-Data
+
+Based on the graphs I have been able to determine the corrolation between a variety of factors:
+There is a general postive trend between the population and the tv audience share but not a strong correlation because values vary and arent constant taking into account some outliers like the X-value of 2.0 and 14.8 which are excessively high. Another relationship I ran in the grpahs was the tv audience and the gdp of the country. On average high tv audience numbers correspond to countries with a high gdp. Then I made comparisons between the confederations and some columns, the confederation with the biggest audience was CONMEBOL (South America) which was surprising because they are the third confederation with the most population meaning tha on average more people watch the worl cup in South America than in any other continent.
+
+The code that I learnt was how to get input from a user and implemented it by allowing users to choose which two columns they want to use for the graph. Its a very basic line of code but it is very useful for pretty much any code that im going to be doing and it allows an extra form of liberty to ask users for input in stead of having to manually assign values to variables.
